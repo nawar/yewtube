@@ -1,22 +1,7 @@
 
 ![](https://img.shields.io/pypi/v/yewtube.svg)  ![](https://img.shields.io/pypi/wheel/yewtube.svg)
 
-## STOP GENOCIDE OF INNOCENT PEOPLE
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/1280px-Flag_of_Palestine.svg.png)
-
-<pre>
-                      _         _          
-                     | |       | |         
-  _   _  _____      _| |_ _   _| |__   ___ 
- | | | |/ _ \ \ /\ / / __| | | | '_ \ / _ \
- | |_| |  __/\ V  V /| |_| |_| | |_) |  __/
-  \__, |\___| \_/\_/  \__|\__,_|_.__/ \___|
-   __/ |                                   
-  |___/
-
-
-</pre>
 
 yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required. <br>
 Visit [this](./COLLABORATORS.md) page if you want to support maintainers of this project.
